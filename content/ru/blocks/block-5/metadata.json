@@ -1,0 +1,38 @@
+{
+  "id": "block-5",
+  "title": "Токенизированный Структурированный Продукт",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "a_scalable_rwat_framework",
+      "title": "Масштабируемый RWAT Framework",
+      "filename": "a_scalable_rwat_framework.md",
+      "order": 1
+    },
+    {
+      "id": "tksp_categories",
+      "title": "Категории TKSP",
+      "filename": "tksp_categories.md",
+      "order": 2
+    },
+    {
+      "id": "legal_trust_x_non-custodial_ownership",
+      "title": "Юридический Траст и Некастодиальное Владение",
+      "filename": "legal_trust_x_non-custodial_ownership.md",
+      "order": 3
+    },
+    {
+        "id": "settlement_currencies",
+        "title": "Валюты Расчетов",
+        "filename": "settlement_currencies.md",
+        "order": 4
+    },
+    {
+        "id": "mechanist_x_fees",
+        "title": "Механизм и Комиссии",
+        "filename": "mechanist_x_fees.md",
+        "order": 5
+    }
+  ]
+}

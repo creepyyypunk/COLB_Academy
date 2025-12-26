@@ -1,0 +1,32 @@
+{
+  "id": "block-3",
+  "title": "Приложение COLB",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "liquid_investments_on-chain_management",
+      "title": "Управление Ликвидными Инвестициями Ончейн",
+      "filename": "liquid_investments_on-chain_management.md",
+      "order": 1
+    },
+    {
+      "id": "investors",
+      "title": "Инвесторы",
+      "filename": "investors.md",
+      "order": 2
+    },
+    {
+      "id": "asset_x_wealth_managers",
+      "title": "Управляющие Активами и Капиталом",
+      "filename": "asset_x_wealth_managers.md",
+      "order": 3
+    },
+    {
+        "id": "pre-ipo_founders_early_employees_or_angel_investors",
+        "title": "Основатели Pre-IPO, Ранние Сотрудники или Бизнес-Ангелы",
+        "filename": "pre-ipo_founders_early_employees_or_angel_investors.md",
+        "order": 4
+    }
+  ]
+}

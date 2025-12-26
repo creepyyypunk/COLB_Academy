@@ -1,0 +1,65 @@
+{
+  "blockId": "block-1",
+  "title": "Basics Quiz",
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the primary purpose of COLB tokenization?",
+      "points": 20,
+      "options": [
+        "Bringing real-world assets to the blockchain",
+        "Creating cryptocurrency for trading",
+        "Building a social media platform",
+        "Developing video games"
+      ],
+      "correctAnswer": 0,
+      "explanation": "COLB focuses on bringing real-world assets to the blockchain through tokenization."
+    },
+    {
+      "id": "q2",
+      "type": "true-false",
+      "question": "Tokenization makes financial products accessible only to institutional investors.",
+      "points": 20,
+      "correctAnswer": false,
+      "explanation": "False. Tokenization actually democratizes access, making institutional-grade products available to everyone through fractional ownership."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-select",
+      "question": "Which challenges does traditional finance face? (Select all that apply)",
+      "points": 30,
+      "options": [
+        "Limited access for retail investors",
+        "Asset illiquidity",
+        "Too much transparency",
+        "High transaction costs"
+      ],
+      "correctAnswers": [0, 1, 3],
+      "explanation": "Traditional finance faces limited access, illiquidity, and high costs. Lack of transparency (not too much) is actually a problem."
+    },
+    {
+      "id": "q4",
+      "type": "multiple-choice",
+      "question": "What is one of the main benefits of COLB's approach?",
+      "points": 15,
+      "options": [
+        "Making assets less liquid",
+        "Increasing barriers to entry",
+        "Democratizing access to financial products",
+        "Centralizing control"
+      ],
+      "correctAnswer": 2,
+      "explanation": "COLB democratizes access to institutional-grade financial products through fractional ownership."
+    },
+    {
+      "id": "q5",
+      "type": "true-false",
+      "question": "COLB uses blockchain technology to provide real-time ownership records.",
+      "points": 15,
+      "correctAnswer": true,
+      "explanation": "True. COLB leverages blockchain for transparency and real-time, verifiable ownership records."
+    }
+  ]
+}

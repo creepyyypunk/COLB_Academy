@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Home",
+    "progress": "Progress",
+    "blocks": "Blocks"
+  },
+  "blocks": {
+    "locked": "Locked",
+    "unlocked": "Unlocked",
+    "completed": "Completed",
+    "start": "Start Learning",
+    "continue": "Continue",
+    "takeQuiz": "Take Quiz",
+    "retakeQuiz": "Retake Quiz"
+  },
+  "quiz": {
+    "passingScore": "Passing Score",
+    "yourScore": "Your Score",
+    "passed": "Passed!",
+    "failed": "Not Passed",
+    "retry": "Try Again",
+    "nextBlock": "Next Block",
+    "submit": "Submit",
+    "next": "Next",
+    "previous": "Previous",
+    "question": "Question",
+    "of": "of",
+    "selectCorrectAnswer": "Select the correct answer",
+    "selectAllCorrect": "Select all correct answers",
+    "trueFalse": "True or False?",
+    "matchItems": "Match the items",
+    "arrangeOrder": "Arrange in correct order",
+    "buildScheme": "Build the correct scheme"
+  },
+  "progress": {
+    "title": "Your Progress",
+    "overallProgress": "Overall Progress",
+    "blocksCompleted": "Blocks Completed",
+    "averageScore": "Average Score",
+    "noAttempts": "No quiz attempts yet"
+  }
+}

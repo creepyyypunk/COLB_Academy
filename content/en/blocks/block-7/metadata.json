@@ -1,0 +1,32 @@
+{
+  "id": "block-7",
+  "title": "Token Economics",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "tokenomics",
+      "title": "Governance & Utility",
+      "filename": "tokenomics.md",
+      "order": 1
+    },
+    {
+      "id": "colb",
+      "title": "$COLB",
+      "filename": "colb.md",
+      "order": 2
+    },
+    {
+      "id": "staking",
+      "title": "Staking",
+      "filename": "staking.md",
+      "order": 3
+    },
+    {
+        "id": "solver_bounty",
+        "title": "Solver Bounty",
+        "filename": "solver_bounty.md",
+        "order": 4
+    }
+  ]
+}

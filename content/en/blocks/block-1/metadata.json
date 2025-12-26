@@ -1,0 +1,20 @@
+{
+  "id": "block-1",
+  "title": "Basics",
+  "description": "Foundational concepts of COLB tokenization - Abstract and Motivation",
+  "order": 1,
+  "sections": [
+    {
+      "id": "abstract",
+      "title": "Abstract",
+      "filename": "abstract.md",
+      "order": 1
+    },
+    {
+      "id": "motivation",
+      "title": "Motivation",
+      "filename": "motivation.md",
+      "order": 2
+    }
+  ]
+}

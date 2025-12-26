@@ -1,0 +1,20 @@
+{
+  "id": "block-2",
+  "title": "Market Analysis",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "market_sizing",
+      "title": "Market Sizing",
+      "filename": "market_sizing.md",
+      "order": 1
+    },
+    {
+      "id": "proprietary_advantages",
+      "title": "Proprietary Advantages",
+      "filename": "proprietary_advantages.md",
+      "order": 2
+    }
+  ]
+}

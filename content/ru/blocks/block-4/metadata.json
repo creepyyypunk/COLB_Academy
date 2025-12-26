@@ -1,0 +1,20 @@
+{
+  "id": "block-4",
+  "title": "Colb USD ($USC)",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "abstracting_banks",
+      "title": "Абстрагирующие Банки",
+      "filename": "abstracting_banks.md",
+      "order": 1
+    },
+    {
+      "id": "clean_swap",
+      "title": "Clean Swap",
+      "filename": "clean_swap.md",
+      "order": 2
+    }
+  ]
+}

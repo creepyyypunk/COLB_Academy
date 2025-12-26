@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: 0 0 0;
+    --color-secondary: 255 255 255;
+    --color-accent: 0 102 204;
+    --color-accent-hover: 0 82 163;
+    --color-muted: 245 245 245;
+    --color-border: 224 224 224;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-secondary text-primary;
+    font-feature-settings: "rlig" 1, "calt" 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer utilities {
+  .smooth-scroll {
+    scroll-behavior: smooth;
+  }
+
+  .transition-colb {
+    transition-duration: 1200ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}

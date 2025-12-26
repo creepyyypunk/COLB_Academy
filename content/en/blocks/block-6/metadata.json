@@ -1,0 +1,32 @@
+{
+  "id": "block-6",
+  "title": "Secondary Market Liquidity Infrastructure",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "problem_and_solution",
+      "title": "Problem and Solution",
+      "filename": "problem_and_solution.md",
+      "order": 1
+    },
+    {
+      "id": "tksp_liquidity",
+      "title": "TKSP Liquidity",
+      "filename": "tksp_liquidity.md",
+      "order": 2
+    },
+    {
+      "id": "intents",
+      "title": "Intents",
+      "filename": "intents.md",
+      "order": 3
+    },
+    {
+        "id": "solvers",
+        "title": "Solvers",
+        "filename": "solvers.md",
+        "order": 4
+    }
+  ]
+}

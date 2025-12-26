@@ -1,0 +1,32 @@
+{
+  "id": "block-6",
+  "title": "Инфраструктура Ликвидности Вторичного Рынка",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "problem_and_solution",
+      "title": "Проблема и Решение",
+      "filename": "problem_and_solution.md",
+      "order": 1
+    },
+    {
+      "id": "tksp_liquidity",
+      "title": "Ликвидность TKSP",
+      "filename": "tksp_liquidity.md",
+      "order": 2
+    },
+    {
+      "id": "intents",
+      "title": "Намерения",
+      "filename": "intents.md",
+      "order": 3
+    },
+    {
+        "id": "solvers",
+        "title": "Решающие",
+        "filename": "solvers.md",
+        "order": 4
+    }
+  ]
+}

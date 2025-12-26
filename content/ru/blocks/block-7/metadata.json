@@ -1,0 +1,32 @@
+{
+  "id": "block-7",
+  "title": "Токеномика",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "tokenomics",
+      "title": "Гоувернанс и Утилити",
+      "filename": "tokenomics.md",
+      "order": 1
+    },
+    {
+      "id": "colb",
+      "title": "$COLB",
+      "filename": "colb.md",
+      "order": 2
+    },
+    {
+      "id": "staking",
+      "title": "Стейкинг",
+      "filename": "staking.md",
+      "order": 3
+    },
+    {
+        "id": "solver_bounty",
+        "title": "Вознаграждение Решающих",
+        "filename": "solver_bounty.md",
+        "order": 4
+    }
+  ]
+}

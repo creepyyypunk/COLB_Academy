@@ -1,0 +1,38 @@
+{
+  "id": "block-5",
+  "title": "Tokenized Structured Product",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "a_scalable_rwat_framework",
+      "title": "A Scalable RWAT Framework",
+      "filename": "a_scalable_rwat_framework.md",
+      "order": 1
+    },
+    {
+      "id": "tksp_categories",
+      "title": "TKSP Categories",
+      "filename": "tksp_categories.md",
+      "order": 2
+    },
+    {
+      "id": "legal_trust_x_non-custodial_ownership",
+      "title": "Legal Trust & Non-Custodial Ownership",
+      "filename": "legal_trust_x_non-custodial_ownership.md",
+      "order": 3
+    },
+    {
+        "id": "settlement_currencies",
+        "title": "Settlement Currencies",
+        "filename": "settlement_currencies.md",
+        "order": 4
+    },
+    {
+        "id": "mechanist_x_fees",
+        "title": "Mechanist & Fees",
+        "filename": "mechanist_x_fees.md",
+        "order": 5
+    }
+  ]
+}

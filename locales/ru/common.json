@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Главная",
+    "progress": "Прогресс",
+    "blocks": "Блоки"
+  },
+  "blocks": {
+    "locked": "Заблокировано",
+    "unlocked": "Разблокировано",
+    "completed": "Завершено",
+    "start": "Начать обучение",
+    "continue": "Продолжить",
+    "takeQuiz": "Пройти тест",
+    "retakeQuiz": "Пересдать тест"
+  },
+  "quiz": {
+    "passingScore": "Проходной балл",
+    "yourScore": "Ваш результат",
+    "passed": "Сдано!",
+    "failed": "Не сдано",
+    "retry": "Попробовать снова",
+    "nextBlock": "Следующий блок",
+    "submit": "Отправить",
+    "next": "Далее",
+    "previous": "Назад",
+    "question": "Вопрос",
+    "of": "из",
+    "selectCorrectAnswer": "Выберите правильный ответ",
+    "selectAllCorrect": "Выберите все правильные ответы",
+    "trueFalse": "Правда или ложь?",
+    "matchItems": "Сопоставьте элементы",
+    "arrangeOrder": "Расположите в правильном порядке",
+    "buildScheme": "Постройте правильную схему"
+  },
+  "progress": {
+    "title": "Ваш прогресс",
+    "overallProgress": "Общий прогресс",
+    "blocksCompleted": "Блоков завершено",
+    "averageScore": "Средний балл",
+    "noAttempts": "Пока нет попыток тестирования"
+  }
+}
