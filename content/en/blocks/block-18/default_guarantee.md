@@ -1,0 +1,1 @@
+To comply with the Swiss regulation on payment tokens, $USC has a guarantee for payment default issued by a Swiss private bank as an additional layer of protection for token holders.

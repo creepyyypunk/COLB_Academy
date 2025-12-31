@@ -1,9 +1,10 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { LanguageSwitcher } from './LanguageSwitcher';
-import { BookOpen, TrendingUp } from 'lucide-react';
+import { TrendingUp } from 'lucide-react';
 
 export function Header() {
   const pathname = usePathname();
@@ -14,8 +15,14 @@ export function Header() {
       <div className="mx-auto max-w-7xl px-6">
         <div className="flex h-16 items-center justify-between">
           <Link href={`/${locale}`} className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
-            <div className="flex h-10 w-10 items-center justify-center rounded-colb bg-accent text-white">
-              <BookOpen className="h-6 w-6" />
+            <div className="flex h-12 w-12 items-center justify-center rounded-colb">
+              <Image
+                src="/images/colb_black.webp"
+                alt="COLB Academy"
+                width={40}
+                height={40}
+                className="object-contain"
+              />
             </div>
             <span className="text-2xl font-bold">COLB Academy</span>
           </Link>

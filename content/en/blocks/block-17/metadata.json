@@ -1,0 +1,14 @@
+{
+  "id": "block-17",
+  "title": "Technology",
+  "description": "",
+  "order": 5,
+  "sections": [
+    {
+      "id": "technology",
+      "title": "Technology",
+      "filename": "technology.md",
+      "order": 1
+    }
+  ]
+}

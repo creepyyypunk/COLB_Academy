@@ -1,0 +1,1 @@
+The Issuer is technically unable to retrieve lost or stolen $USC. The loss of $USC and/or wallet private keys is at the sole risk of the user. Colb Trust and Colb Asset SA are, under no circumstances, liable for any loss of $USC or wallet private key.

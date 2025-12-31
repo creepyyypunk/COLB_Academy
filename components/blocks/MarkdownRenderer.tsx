@@ -3,13 +3,21 @@
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
-import rehypeSanitize from 'rehype-sanitize';
+import rehypeSanitize, { defaultSchema } from 'rehype-sanitize';
 
 interface MarkdownRendererProps {
   content: string;
 }
 
 export function MarkdownRenderer({ content }: MarkdownRendererProps) {
+  const sanitizeSchema = {
+    ...defaultSchema,
+    attributes: {
+      ...defaultSchema.attributes,
+      '*': [...(defaultSchema.attributes?.['*'] || []), 'style', 'className'],
+    },
+  };
+
   return (
     <article
       className="prose prose-lg max-w-none
@@ -22,11 +30,15 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps) {
       prose-strong:text-primary prose-strong:font-semibold
       prose-ul:my-6 prose-ol:my-6
       prose-li:my-2
-      prose-code:bg-muted prose-code:px-1 prose-code:py-0.5 prose-code:rounded
-      prose-pre:bg-muted prose-pre:border prose-pre:border-border
+      prose-code:bg-gray-100 prose-code:text-gray-900 prose-code:px-1 prose-code:py-0.5 prose-code:rounded
+      prose-pre:bg-gray-50 prose-pre:text-gray-900 prose-pre:border prose-pre:border-gray-300 prose-pre:p-4 prose-pre:rounded-lg
+      [&_pre_code]:bg-transparent [&_pre_code]:p-0 [&_pre_code]:text-inherit
     "
     >
-      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw, rehypeSanitize]}>
+      <ReactMarkdown
+        remarkPlugins={[remarkGfm]}
+        rehypePlugins={[rehypeRaw, [rehypeSanitize, sanitizeSchema]]}
+      >
         {content}
       </ReactMarkdown>
     </article>

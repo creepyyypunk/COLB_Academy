@@ -1,0 +1,14 @@
+{
+  "id": "block-9",
+  "title": "Механихизм Решения Намерений",
+  "description": "",
+  "order": 2,
+  "sections": [
+    {
+      "id": "appendix2",
+      "title": "Механихизм Решения Намерений",
+      "filename": "appendix2.md",
+      "order": 1
+    }
+  ]
+}

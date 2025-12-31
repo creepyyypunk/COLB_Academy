@@ -18,6 +18,7 @@ in the performance of the underlying, reflecting its price moves 1:1 (adjusted b
 any related fees).
 
 ![Structured Investment Token-underlying Fixed Ratio](/images/blocks/block-3/1.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: Structured Investment Token-underlying Fixed Ratio</p>
 
 As a second example, in the current market environment (Q1 2024) of a crypto bull-run backdrop,
 some expect rising prices of cryptocurrencies, increasing volatility and the possibility for a strong
@@ -27,6 +28,7 @@ events while being able to capture the upside of a cryptocurrency bull market, a
 in the graph below.
 
 ![Structured Investment Token-underlying Adaptable Ratio](/images/blocks/block-3/2.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: Structured Investment Token-underlying Adaptable Ratio</p>
 
 In this context, the structured investment token example represented above aims to offer a minimum
 redemption at expiry equivalent to 90% of the nominal as capital protection and an 80% participation in

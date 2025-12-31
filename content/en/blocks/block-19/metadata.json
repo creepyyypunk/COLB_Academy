@@ -1,0 +1,14 @@
+{
+  "id": "block-19",
+  "title": "Conclusion",
+  "description": "",
+  "order": 7,
+  "sections": [
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "filename": "conclusion.md",
+      "order": 1
+    }
+  ]
+}

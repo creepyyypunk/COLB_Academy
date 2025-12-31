@@ -1,0 +1,14 @@
+{
+  "id": "block-15",
+  "title": "Экономика",
+  "description": "",
+  "order": 3,
+  "sections": [
+    {
+      "id": "economics",
+      "title": "Экономика",
+      "filename": "economics.md",
+      "order": 1
+    }
+  ]
+}

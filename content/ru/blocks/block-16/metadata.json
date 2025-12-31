@@ -1,0 +1,50 @@
+{
+  "id": "block-16",
+  "title": "Структура",
+  "description": "",
+  "order": 4,
+  "sections": [
+    {
+      "id": "usc_structure",
+      "title": "Структура $USC",
+      "filename": "usc_structure.md",
+      "order": 1
+    },
+    {
+      "id": "stabilization",
+      "title": "Стабилизация",
+      "filename": "stabilization.md",
+      "order": 2
+    },
+    {
+      "id": "minting",
+      "title": "Выпуск",
+      "filename": "minting.md",
+      "order": 3
+    },
+    {
+      "id": "burning",
+      "title": "Сжигание",
+      "filename": "burning.md",
+      "order": 4
+    },
+    {
+      "id": "reserve_protection",
+      "title": "Защита Резервов",
+      "filename": "reserve_protection.md",
+      "order": 5
+    },
+    {
+      "id": "acquisition",
+      "title": "Приобретение",
+      "filename": "acquisition.md",
+      "order": 6
+    },
+    {
+      "id": "redemption",
+      "title": "Погашение",
+      "filename": "redemption.md",
+      "order": 7
+    }
+  ]
+}

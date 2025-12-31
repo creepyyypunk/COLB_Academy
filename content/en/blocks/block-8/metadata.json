@@ -1,0 +1,14 @@
+{
+  "id": "block-8",
+  "title": "TKSP Pools Technical Design",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "appendix1",
+      "title": "TKSP Pools Technical Design",
+      "filename": "appendix1.md",
+      "order": 1
+    }
+  ]
+}

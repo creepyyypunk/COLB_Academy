@@ -1,0 +1,14 @@
+{
+  "id": "block-8",
+  "title": "Технический дизайн пулов TKSP",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "appendix1",
+      "title": "Технический дизайн пулов TKSP",
+      "filename": "appendix1.md",
+      "order": 1
+    }
+  ]
+}

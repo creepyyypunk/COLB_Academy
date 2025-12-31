@@ -1,0 +1,20 @@
+{
+  "id": "block-13",
+  "title": "Block 13",
+  "description": "Description for block 13",
+  "order": 13,
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "Section 1",
+      "filename": "section-1.md",
+      "order": 1
+    },
+    {
+      "id": "section-2",
+      "title": "Section 2",
+      "filename": "section-2.md",
+      "order": 2
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "block-19",
+  "title": "Заключение",
+  "description": "",
+  "order": 7,
+  "sections": [
+    {
+      "id": "conclusion",
+      "title": "Заключение",
+      "filename": "conclusion.md",
+      "order": 1
+    }
+  ]
+}

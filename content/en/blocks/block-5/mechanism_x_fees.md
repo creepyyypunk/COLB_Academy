@@ -38,6 +38,7 @@ In practice, for Colb Managed Tokens (CMTs), the primary acquisition works as fo
 10. Upon maturity, investments can be redeemed, crediting $USC to the user's wallet.
 
 ![CMT Creation Flow](/images/blocks/block-5/10.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: CMT Creation Flow</p>
 
 The TKSP is only released to the user once the issuer trust fully collateralizes it. The process of
 acquiring the underlying asset can take days because it is subject to the same constraints as the

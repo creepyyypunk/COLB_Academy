@@ -1,0 +1,1 @@
+The balance of $USC in a wallet, represents the balance in the account with Colb Trust by the holder of this wallet. These transactions do not require written form. Colb Trust will only pay out USD to a current holder of $USC tokens. Previous holders have, under no circumstances, any claim against the Issuer.

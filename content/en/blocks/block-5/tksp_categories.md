@@ -1,6 +1,7 @@
 Colb’s TKSPs are categorized based on the underlying assets.
 
 ![TKSP Framework Product Range](/images/blocks/block-5/categories.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: TKSP Framework Product Range</p>
 
 ## Colb Fund-linked Tokens (CFTs)
 
@@ -11,6 +12,7 @@ the performance of designated funds, Colb pioneered a C1 Black TKSP that was dir
 BlackRock fund, exemplifying the potential and reliability of CFTs.
 
 ![CFTs Overview](/images/blocks/block-5/CFT.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">CFTs Overview</p>
 
 ## Colb Managed Tokens (CMTs)
 
@@ -22,6 +24,7 @@ investors with diversified portfolio options tailored to their individual risk a
 goals.
 
 ![Indicative Portfolio Allocation of CMTs Underlying Strategies](/images/blocks/block-5/CMT.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Indicative Portfolio Allocation of CMTs Underlying Strategies</p>
 
 ## Colb Tracker Tokens (CTTs)
 Tracking the performance of various assets or financial strategies. Scheduled for introduction in 2024,
@@ -32,3 +35,4 @@ enabling investors to capitalize on early-stage opportunities with ease. The pio
 an OpenAI shares allocation, delivered in collaboration with Stableton.
 
 ![CTTs Overview](/images/blocks/block-5/CTT.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: CTTs Overview</p>

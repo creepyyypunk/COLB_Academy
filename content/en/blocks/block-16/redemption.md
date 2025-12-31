@@ -1,0 +1,1 @@
+Subject to the KYC/AML whitelisting process, $USC holders may redeem their tokens for proportional fiat currency on a 1:1 ratio. Upon making a redemption request, the user will receive the equivalent amount in USD.

@@ -93,12 +93,6 @@ export class ProgressManager {
 
     if (attempt.passed) {
       blockProgress.completed = true;
-
-      // Unlock next block
-      const nextBlockId = this.getNextBlockId(blockId);
-      if (nextBlockId) {
-        progress.unlockedBlocks.add(nextBlockId);
-      }
     }
 
     progress.blocksProgress.set(blockId, blockProgress);
@@ -130,14 +124,6 @@ export class ProgressManager {
   }
 
   static isBlockUnlocked(progress: UserProgress, blockId: string): boolean {
-    return progress.unlockedBlocks.has(blockId);
-  }
-
-  private static getNextBlockId(currentBlockId: string): string | null {
-    const blockNum = parseInt(currentBlockId.split('-')[1]);
-    if (blockNum < 7) {
-      return `block-${blockNum + 1}`;
-    }
-    return null;
+    return true; // All blocks are always unlocked
   }
 }

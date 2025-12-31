@@ -12,6 +12,7 @@ individuals own crypto compared to 12% of older demographics, with the majority 
 falling in the 18-40 age range, primarily comprising Gen Z and Millennials.
 
 ![Crypto adoption and the Great Wealth Transfer](/images/blocks/block-2/transfer.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: Crypto adoption and the Great Wealth Transfer</p>
 
 Galaxy Digital Holdings predicts that the Great Wealth Transfer would bring an additional
 US$160bn–US$225bn into crypto markets due to the younger generation's higher technology

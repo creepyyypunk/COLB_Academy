@@ -9,7 +9,7 @@ distribution will be as follows. In addition to early community incentives, our 
 different tiers grants Colb’s users access to exclusive investment opportunities, higher yields, and
 reduced fees.
 
-![Governance & Utility of $COLB](/images/blocks/block-7/t_full_.png)
+![T_full](/images/blocks/block-7/t_full_.png)
 
 $COLB has a limited supply of 1bn tokens, with no minting or burning functions. Additionally, $COLB
 will serve as a backbone for modules that are part of Colb’s ecosystem. It will enable institutional and

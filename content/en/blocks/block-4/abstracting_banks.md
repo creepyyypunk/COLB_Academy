@@ -14,5 +14,4 @@ full bank guarantee issued on the reserves.
 
 Users can access $USC by depositing USD in the $USC Trust Treasury or swapping it against other
 cryptocurrencies, such as MATIC and Tether, with Colb. $USC is also available on the DeFi and CeFi
-crypto exchanges. For further details about the underlying mechanisms, the $USC whitepaper can be
-accessed at https://www.colb.finance/whitepaper.
+crypto exchanges.

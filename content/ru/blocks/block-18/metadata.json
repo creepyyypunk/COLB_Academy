@@ -1,0 +1,44 @@
+{
+  "id": "block-18",
+  "title": "Юридическая Информация",
+  "description": "",
+  "order": 6,
+  "sections": [
+    {
+      "id": "legal",
+      "title": "Юридическая Информация",
+      "filename": "legal.md",
+      "order": 1
+    },
+    {
+      "id": "default_guarantee",
+      "title": "Базовые Гарантии",
+      "filename": "default_guarantee.md",
+      "order": 2
+    },
+    {
+      "id": "colb_trust",
+      "title": "COLB Trust",
+      "filename": "colb_trust.md",
+      "order": 3
+    },
+    {
+      "id": "legal_status",
+      "title": "Юридический Статус $USC",
+      "filename": "legal_status.md",
+      "order": 4
+    },
+    {
+      "id": "legal_representation",
+      "title": "Юридическое Представительство $USC",
+      "filename": "legal_representation.md",
+      "order": 5
+    },
+    {
+      "id": "legal_implications",
+      "title": "Юридические Последствия Потери Токенов $USC",
+      "filename": "legal_implications.md",
+      "order": 6
+    }
+  ]
+}

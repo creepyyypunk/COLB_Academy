@@ -1,0 +1,14 @@
+{
+  "id": "block-10",
+  "title": "Резолюция о Бартере",
+  "description": "",
+  "order": 3,
+  "sections": [
+    {
+      "id": "appendix3",
+      "title": "Резолюция о Бартере",
+      "filename": "appendix3.md",
+      "order": 1
+    }
+  ]
+}

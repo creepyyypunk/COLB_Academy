@@ -1,0 +1,20 @@
+{
+  "id": "block-13",
+  "title": "Basics",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "abstract",
+      "title": "Abstract",
+      "filename": "abstract.md",
+      "order": 1
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "filename": "introduction.md",
+      "order": 2
+    }
+  ]
+}

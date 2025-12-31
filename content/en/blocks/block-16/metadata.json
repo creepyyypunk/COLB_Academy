@@ -1,0 +1,50 @@
+{
+  "id": "block-16",
+  "title": "Structure",
+  "description": "",
+  "order": 4,
+  "sections": [
+    {
+      "id": "usc_structure",
+      "title": "$USC Structure",
+      "filename": "usc_structure.md",
+      "order": 1
+    },
+    {
+      "id": "stabilization",
+      "title": "Stabilization",
+      "filename": "stabilization.md",
+      "order": 2
+    },
+    {
+      "id": "minting",
+      "title": "Minting",
+      "filename": "minting.md",
+      "order": 3
+    },
+    {
+      "id": "burning",
+      "title": "Burning",
+      "filename": "burning.md",
+      "order": 4
+    },
+    {
+      "id": "reserve_protection",
+      "title": "Reserve Protection",
+      "filename": "reserve_protection.md",
+      "order": 5
+    },
+    {
+      "id": "acquisition",
+      "title": "Acquisition",
+      "filename": "acquisition.md",
+      "order": 6
+    },
+    {
+      "id": "redemption",
+      "title": "Redemption",
+      "filename": "redemption.md",
+      "order": 7
+    }
+  ]
+}

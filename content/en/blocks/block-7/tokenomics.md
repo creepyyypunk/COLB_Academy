@@ -5,3 +5,4 @@ envisions an ecosystem where every stakeholder has a fair say in navigating this
 system by leveraging the blockchain infrastructure.
 
 ![Governance & Utility of $COLB](/images/blocks/block-7/tokenomics.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: Governance & Utility of $COLB</p>

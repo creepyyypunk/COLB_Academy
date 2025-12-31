@@ -8,6 +8,7 @@ tokenization and smart contracts, fundamentally reshaping traditional wealth con
 technology-driven model.
 
 ![The Wealth 3.0 Portfolio](/images/blocks/block-1/WealthPortfolio.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: The Wealth 3.0 Portfolio</p>
 
 Despite this systemic change, challenges persist:
 1. Making traditional assets accessible to individuals, particularly those with digital wealth like

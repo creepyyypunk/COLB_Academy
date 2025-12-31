@@ -1,0 +1,20 @@
+{
+  "id": "block-13",
+  "title": "Основы",
+  "description": "",
+  "order": 1,
+  "sections": [
+    {
+      "id": "abstract",
+      "title": "Аннотация",
+      "filename": "abstract.md",
+      "order": 1
+    },
+    {
+      "id": "introduction",
+      "title": "Введение",
+      "filename": "introduction.md",
+      "order": 2
+    }
+  ]
+}

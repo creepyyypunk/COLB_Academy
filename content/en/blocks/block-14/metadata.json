@@ -1,0 +1,20 @@
+{
+  "id": "block-14",
+  "title": "The Stablecoin Ecoysystem",
+  "description": "",
+  "order": 2,
+  "sections": [
+    {
+      "id": "problem_of_stablecoins",
+      "title": "Problem of Stablecoins",
+      "filename": "problem_of_stablecoins.md",
+      "order": 1
+    },
+    {
+      "id": "price_stability_mechanisms",
+      "title": "Price Stability Mechanisms",
+      "filename": "price_stability_mechanisms.md",
+      "order": 2
+    }
+  ]
+}

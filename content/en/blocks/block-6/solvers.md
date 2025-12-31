@@ -9,3 +9,4 @@ matching both sides and transferring the TKSP. Users can specify the fraction of
 will receive as compensation for their service.
 
 ![Summary of Intent-centric Technical Flow](/images/blocks/block-6/tech_flow.png)
+<p style="text-align: center; font-style: italic; margin-top: 8px;">Graphic: Summary of Intent-centric Technical Flow</p>

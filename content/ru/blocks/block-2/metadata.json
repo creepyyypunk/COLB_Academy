@@ -2,7 +2,7 @@
   "id": "block-2",
   "title": "Анализ рынка",
   "description": "",
-  "order": 1,
+  "order": 2,
   "sections": [
     {
       "id": "market_sizing",
