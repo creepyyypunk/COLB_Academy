@@ -1,5 +1,7 @@
 import { QuizAttempt } from './quiz.types';
 
+export type { QuizAttempt };
+
 export interface BlockProgress {
   blockId: string;
   sectionsRead: Set<string>;

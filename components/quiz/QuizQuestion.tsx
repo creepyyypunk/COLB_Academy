@@ -41,7 +41,7 @@ export function QuizQuestion({ question, onAnswer, initialAnswer }: QuizQuestion
       return (
         <div className="rounded-lg border border-border bg-muted p-6 text-center">
           <p className="text-muted-foreground">
-            Question type "{question.type}" is not yet implemented.
+            Question type &ldquo;{question.type}&rdquo; is not yet implemented.
           </p>
         </div>
       );

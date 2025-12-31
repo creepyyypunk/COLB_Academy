@@ -6,8 +6,8 @@ export function scoreQuestion(question: Question, answer: any): number {
       return answer === question.correctAnswer ? question.points : 0;
 
     case 'multiple-select': {
-      const userAnswers = new Set(answer || []);
-      const correctAnswers = new Set(question.correctAnswers);
+      const userAnswers = new Set<number>(answer || []);
+      const correctAnswers = new Set<number>(question.correctAnswers);
 
       if (userAnswers.size !== correctAnswers.size) return 0;
 
